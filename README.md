@@ -19,3 +19,7 @@ When the sensors detect the angle, change the screen light or send a message to 
 
 I can not code it.
 
+
+I searched this kind of app in Github here,there are some same name apps.
+but i can not know if their logics or ideas are same as mine for now.
+
